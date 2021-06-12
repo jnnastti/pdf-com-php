@@ -55,4 +55,6 @@ $pdf->Output();
 <p>FPDF não requer extensão (exceto Zlib para habilitar compressão e GD para suporte a GIF). 
 A última versão requer pelo menos PHP 5.1 e é compatível com PHP 7.4.</p>
 
+<p> Para utilizar os exemplos desse repositório, é preciso antes fazer o Download da biblioteca e descompactar dentro da pasta do seu projeto.</p>
+
 <p>Para mais informações e Download: <a href="http://www.fpdf.org/"> fdpf.org </a> </p>
